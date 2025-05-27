@@ -1,173 +1,85 @@
-以下是一个专业的 Deep Learning 知识整理 GitHub README.md 模板，包含 CV（计算机视觉）、NLP（自然语言处理）、多模态（Multimodal Learning） 等领域，并使用 MarkDown 语法优化，增强可读性和美观性。  
-
----
 
 Deep Learning 知识整理  
 📚 A Comprehensive Collection of Deep Learning Concepts, Papers, and Applications  
 🔥 持续更新中…  
-
----
-
 📖 目录  
 • [📌 简介](#-简介)  
-
 • [📚 核心领域](#-核心领域)  
-
   • [🎯 计算机视觉 (CV)](#-计算机视觉-cv)  
-
   • [🗣️ 自然语言处理 (NLP)](#-自然语言处理-nlp)  
-
   • [🎭 多模态学习 (Multimodal)](#-多模态学习-multimodal)  
-
 • [🔍 研究方向](#-研究方向)  
-
 • [📁 代码仓库 & 项目](#-代码仓库--项目)  
-
 • [📄 学习资源](#-学习资源)  
-
 • [🔗 相关链接](#-相关链接)  
-
 • [📝 贡献指南](#-贡献指南)  
-
 • [🎯 作者](#-作者)  
-
-
----
 
 📌 简介  
 Deep Learning 知识整理 是一个专注于 CV、NLP、多模态学习 等领域的知识库，涵盖 核心概念、经典论文、代码实现、研究方向，适合 学术研究者、工程师、学生 等学习者。  
-
 🔹 目标：打造一个系统化的 Deep Learning 学习平台，帮助开发者快速掌握前沿技术。  
 🔹 更新频率：持续维护，定期更新最新论文、开源代码和最佳实践。  
-
----
-
 📚 核心领域  
-
 🎯 计算机视觉 (CV)  
 涵盖 图像分类、目标检测、分割、生成模型 等方向：  
 • ✅ 经典模型：AlexNet, VGG, ResNet, EfficientNet, Vision Transformer (ViT)  
-
 • ✅ 最新进展：Diffusion Models, Zero-shot Learning, Vision-Language Models (CLIP, ALIGN)  
-
 • ✅ 开源项目：  
-
   • [Detectron2 (FAIR)](https://github.com/facebookresearch/detectron2)  
-
   • [SegFormer (MIT)](https://github.com/NVlabs/SegFormer)  
-
   • [DINO (Meta)](https://github.com/facebookresearch/dino)  
-
 
 🗣️ 自然语言处理 (NLP)  
 包括 文本分类、问答、机器翻译、大语言模型 (LLMs) 等：  
 • ✅ 经典模型：BERT, GPT, T5, RoBERTa  
-
 • ✅ 最新进展：Instruct Tuning, Chain-of-Thought (CoT), Retrieval-Augmented Generation (RAG)  
-
 • ✅ 开源项目：  
-
   • [Hugging Face Transformers](https://github.com/huggingface/transformers)  
-
   • [LLaMA (Meta)](https://github.com/facebookresearch/llama)  
-
   • [Alpaca (Stanford)](https://github.com/tatsu-lab/stanford_alpaca)  
-
-
 🎭 多模态学习 (Multimodal)  
 整合 图像 + 文本、视频 + 音频 等跨模态任务：  
 • ✅ 经典模型：CLIP, ALIGN, Flamingo  
-
 • ✅ 最新进展：FLAVA, METER, OOD Generalization  
-
 • ✅ 开源项目：  
-
   • [OpenFLAME (ETH Zurich)](https://github.com/openflame/openflame)  
-
-  • [BLIP (Salesforce)](https://github.com/salesforce/BLIP)  
-
+  • [BLIP (Salesforce)](https://github.com/salesforce/BLIP) 
   • [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO)  
-
-
----
-
 🔍 研究方向  
 • CV  
-
   • Few-Shot / Zero-Shot Learning  
-
   • Vision-Language Models (CLIP, ALIGN)  
-
   • Diffusion Models (DALL-E, Stable Diffusion)  
-
 • NLP  
-
   • LLMs (BERT, GPT, LLaMA)  
-
   • Retrieval-Augmented Generation (RAG)  
-
   • Multilingual & Low-Resource Learning  
-
 • Multimodal  
-
   • MLLMs (Multimodal Large Language Models)  
-
   • Cross-Modal Alignment  
-
   • Generalized Zero-Shot Learning  
-
-
----
-
 📁 代码仓库 & 项目  
 • Hugging Face Models：[🔗](https://huggingface.co/models)  
-
 • GitHub - Vision：[Vision Models](https://github.com/topics/vision?o=desc&s=stars)  
-
 • GitHub - NLP：[NLP Models](https://github.com/topics/nlp?o=desc&s=stars)  
-
 • GitHub - Multimodal：[Multimodal Models](https://github.com/topics/multimodal?o=desc&s=stars)  
-
-
----
-
 📄 学习资源  
 • 书籍  
-
   • 《Deep Learning》 (Ian Goodfellow)  
-
   • 《Computer Vision: Algorithms and Applications》 (Richard Szeliski)  
-
   • 《Natural Language Processing with Transformers》 (Lewis Tunstall, Leandro von Werra)  
-
 • 课程  
-
   • CS231n (Stanford - CV)  
-
   • CS224n (Stanford - NLP)  
-
   • Hugging Face Datasets & Transformers  
-
 • 博客  
-
   • Distill.pub  
-
   • Papers With Code  
-
   • Towards Data Science  
-
-
----
-
 🔗 相关链接  
 • GitHub Trending：[🔗](https://github.com/trending?l=python)  
-
 • Papers With Code：[🔗](https://paperswithcode.com/)  
-
 • Hugging Face Spaces：[🔗](https://huggingface.co/spaces)  
-
-
----
 
 📝 贡献指南  
 欢迎提交 PR 或 Issue！  
@@ -185,12 +97,8 @@ Deep Learning 知识整理 是一个专注于 CV、NLP、多模态学习 等领�
 **代码**：附上链接或说明  
 ```
 
----
-
 🎯 作者  
 🚀 @YourName | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)  
-
----
 
 **如何让这个 README 更美观？**
 1. 使用 GitBook 或 MkDocs 部署（更适合长文档）  
@@ -198,4 +106,3 @@ Deep Learning 知识整理 是一个专注于 CV、NLP、多模态学习 等领�
 3. 增加表格对比（如模型性能比较）  
 4. 嵌入 Gif / 动态图表（如模型训练曲线）  
 
-希望这个模板能帮到你！如果需要更详细的功能（如 CI/CD、自动化更新），可以进一步优化。 🚀
